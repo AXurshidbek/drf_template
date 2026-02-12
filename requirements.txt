@@ -1,0 +1,9 @@
+#Versions of packages may be updated in the future, but these are the versions that were used at the time of development.
+
+djangorestframework==3.16.1
+drf-yasg==1.21.14
+python-environ==0.4.54
+django-jazzmin==3.0.1
+django-cors-headers==4.9.0
+djangorestframework_simplejwt==5.5.1
+django-filter==25.2
